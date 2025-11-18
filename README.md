@@ -52,7 +52,7 @@
 
 | 항목 | 상세 정보 |
 | :--- | :--- |
-| **시연 동영상** | [YouTube 시연 동영상 링크](*추가 예정*) |
+| **시연 동영상** | [YouTube 시연 동영상 링크](https://youtu.be/fYuqgONds6A) |
 | **배포 URL** | Streamlit Cloud를 통한 웹 앱 접속 링크:(https://dataanalysis251118-weather-analysis.streamlit.app/) |
 
 ---
