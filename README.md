@@ -14,9 +14,8 @@
 
 | 이름 | 역할 |
 | :--- | :--- |
-| 차은우 | [담당 역할 상세 기재, 예: 데이터 전처리 및 분석 모델 설계] |
-| 변우석 | [담당 역할 상세 기재, 예: Streamlit UI/UX 구현 및 시각화] |
-| [팀원 3 이름] | [담당 역할 상세 기재] |
+| 안현건 | 데이터 전처리 및 분석 모델 설계] |
+
 
 ---
 
@@ -53,7 +52,7 @@
 
 | 항목 | 상세 정보 |
 | :--- | :--- |
-| **시연 동영상** | [YouTube 시연 동영상 링크](https://www.youtube.com/your-video-link) |
+| **시연 동영상** | [YouTube 시연 동영상 링크](*추가 예정*) |
 | **배포 URL** | Streamlit Cloud를 통한 웹 앱 접속 링크: [Streamlit Cloud 배포 링크] |
 
 ---
@@ -73,3 +72,5 @@
 ```bash
 # Streamlit, Pandas, Plotly 등 필요한 라이브러리 설치
 pip install streamlit pandas seaborn matplotlib plotly
+
+streamlit run weather.py
